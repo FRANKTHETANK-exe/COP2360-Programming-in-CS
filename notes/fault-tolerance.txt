@@ -1,0 +1,13 @@
+A fault-tolerant app is one that keeps working even if somethings go wrong – like an error or bad input. It doesn’t crash or freeze. Instead, it handles the problem and keeps going.
+
+Because things will go wrong eventually. Fault-tolerance makes sure the program doesn’t just give up or crash when that happens. It helps users trust the software, it keeps data safe and avoids bigger problems. 
+
+Medical software – if something fails while controlling a device like a pacemaker, this could lead to death.
+Banking Apps – A glitch in a money transfer could cause someone to lose their money or show the wrong balance.
+Airplane systems - these must keep working even if something breaks. A software crash mid-flight isn’t an option.
+
+Bad input - like when someone types “abc” instead of a number. Without checks, the program crashes.
+Missing files – if a file the app needs isn’t there and there’s no backup plan, it’ll break
+Divide by zero – That error can crash a program fast. A smart app checks first and avoids it. 
+
+It’s like putting your risky code in safety net. If something fails, the program catches the error and deals with it, like showing a message or trying again. Instead of just dying. It keeps things running smoothly, even when something goes wrong.

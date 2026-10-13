@@ -1,7 +1,9 @@
 # COP2360 Programming in C#
 
-My C# assignments for this class. They include fish averages, sign pricing, salary raises, lottery-number checks, and basic classes.
+My C# assignments, including console exercises, Movies, and the Slugs calculator.
 
-Each console folder has its own `Program.cs`. Use a separate console project for each file.
+Each standalone `Program.cs` needs its own console project. Movies has its original .NET 9 project in `A01-Movies`.
 
-`A03-Slugs` and `A12-LlamaRental` contain form code only. Their designer and project files are missing, so those two are not complete runnable Windows Forms projects.
+Slugs has its original Windows Forms project. Open `A03-Slugs/slugs1.sln` in Visual Studio on Windows with .NET Framework 4.7.2 support.
+
+`A12-LlamaRental` still contains form code only; its designer and project files are missing.
